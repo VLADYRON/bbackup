@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<configuracion>
+	<host name="localhost"></host>
+	<user name="root"></user>
+	<pass name="mysql"></pass>
+	<path name="D:\back\"></path>
+	<databases>
+		<database name="electronicos"></database>
+		<database name="top"></database>
+	</databases>
+</configuracion>
